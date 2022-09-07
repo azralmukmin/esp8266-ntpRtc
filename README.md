@@ -11,4 +11,4 @@ Board Manager:
 
 Library:  
 - NTPClient by Fabrice Weinberg Version 3.2.1 https://github.com/arduino-libraries/NTPClient
-- RTClib by Adafruit Version 2.0.2
+- RTClib by Adafruit Version 2.1.1 https://github.com/adafruit/RTClib
