@@ -6,9 +6,9 @@ Hardware:
 - LOLIN(WEMOS) D1 mini Pro
 - DS3231 RTC module
 
-Board Manager:
+Board Manager:  
 - esp8266 by ESP8266 Community Version 3.0.2
 
-Library:
-- NTPClient by Fabrice Weinberg Version 3.2.1
+Library:  
+- NTPClient by Fabrice Weinberg Version 3.2.1 https://github.com/arduino-libraries/NTPClient
 - RTClib by Adafruit Version 2.0.2
